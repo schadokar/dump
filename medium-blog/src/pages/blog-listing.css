@@ -1,0 +1,14 @@
+.blog-listing {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-decoration: none;
+}
+
+.blog-listing p {
+  margin-top: 1rem;
+}
+
+.blog-listing h2 {
+  margin-bottom: 1rem;
+}

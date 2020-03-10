@@ -1,0 +1,19 @@
+.project-header {
+  font-weight: 700;
+  font-size: xx-large;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+.project-data {
+  font-weight: 600;
+  margin-top: 25px;
+}
+
+.project-github-btn {
+  float: right;
+}
+.project-back-to-home {
+  float: right;
+  font-size: large;
+}
