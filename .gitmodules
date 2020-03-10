@@ -1,0 +1,6 @@
+[submodule "medium-blog"]
+	path = medium-blog
+	url = https://github.com/schadokar/medium-blog.git
+[submodule "blogs"]
+	path = blogs
+	url = https://github.com/schadokar/blogs.git
