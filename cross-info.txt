@@ -1,0 +1,7 @@
+https://github.com/filecoin-project/lotus/blob/master/api/apistruct/struct.go#L232 and following for the balances
+https://github.com/filecoin-project/lotus/blob/master/api/apistruct/struct.go#L204
+https://github.com/filecoin-project/lotus/blob/master/api/apistruct/struct.go#L216
+https://github.com/filecoin-project/lotus/blob/master/api/apistruct/struct.go#L217
+should give you all the keys i assume
+https://github.com/filecoin-project/lotus/blob/master/api/apistruct/struct.go#L221
+should give you the messages to an account, maybe needs to be called twice for in and out going msg's
